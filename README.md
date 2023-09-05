@@ -9,4 +9,4 @@
 
 
 
-<img src="img_girl.jpg" alt="form preview" width="500" height="600">
+<img src="project-preview.png" alt="form preview">
